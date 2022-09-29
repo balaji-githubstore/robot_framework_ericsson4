@@ -6,7 +6,7 @@ Library             DriverSetup.py
 
 
 *** Variables ***
-${BROWSER}      chrome
+${BROWSER}      edge
 ${URL}          https://demo.openemr.io/b/openemr
 
 
